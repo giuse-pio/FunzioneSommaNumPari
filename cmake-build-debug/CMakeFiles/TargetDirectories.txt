@@ -1,0 +1,3 @@
+C:/Users/giupe/CLionProjects/FunzioneSommaNumPari/cmake-build-debug/CMakeFiles/FunzioneSommaNumPari.dir
+C:/Users/giupe/CLionProjects/FunzioneSommaNumPari/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/giupe/CLionProjects/FunzioneSommaNumPari/cmake-build-debug/CMakeFiles/rebuild_cache.dir
